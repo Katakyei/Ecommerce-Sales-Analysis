@@ -21,14 +21,15 @@ This project presents a comprehensive analysis of E-commerce order performance u
 - **KPIs Displayed:** Total Sales, Order Count, Fulfillment Ratio, and Avg Quantity Sold.
 
 ## Project Files
-- `ecommerce_cleaning_analysis.py` – Python script for data processing.
-- `Ecommerce_Sales_Dashboard.pbix` – Power BI dashboard file.
+- `https://github.com/Katakyei/Ecommerce-Sales-Analysis/blob/main/Ecommerce_cleaned.ipynb` – Python script for data processing.
+- `https://github.com/Katakyei/Ecommerce-Sales-Analysis/blob/main/E-commerce%20Dashboard.pbix` – Power BI dashboard file.
 - `/screenshots/` – Folder with dashboard images for reference.
 
 ## Dashboard Screenshots
 
-![Sales Overview](screenshots/ecommerce_overview.png)  
-![Shipping & Delivery](screenshots/ecommerce_delivery.png)
+![Sales Overview](https://github.com/Katakyei/Ecommerce-Sales-Analysis/blob/main/Overview%20Screenshot.png)  
+![Product & Promotion Insights](https://github.com/Katakyei/Ecommerce-Sales-Analysis/blob/main/Product%20%26%20%20Promotion%20Insights%20Screenshot.png)  
+![Shipping & Delivery](https://github.com/Katakyei/Ecommerce-Sales-Analysis/blob/main/Shipping%20and%20Fulfilment%20Screenshot.png)
 
 ## Insights Gained
 - Identified bottlenecks in delivery performance.
